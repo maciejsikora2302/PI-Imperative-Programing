@@ -1,0 +1,3 @@
+C:/Users/admin/Documents/Studia/Semestr II/PI/zajecia_4/zazd1/cmake-build-debug/CMakeFiles/zazd1.dir
+C:/Users/admin/Documents/Studia/Semestr II/PI/zajecia_4/zazd1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Documents/Studia/Semestr II/PI/zajecia_4/zazd1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/Documents/Studia/Semestr II/PI/zajecia_4/zad3/main.c
+stdio.h
+-
+stdbool.h
+-
+malloc.h
+-
+math.h
+-
+iso646.h
+-
+
