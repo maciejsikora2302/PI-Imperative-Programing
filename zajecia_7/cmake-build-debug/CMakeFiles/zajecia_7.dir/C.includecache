@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/Documents/Studia/Semestr II/Git/PI-Imperative-Programing-/zajecia_7/plagiat_template.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
